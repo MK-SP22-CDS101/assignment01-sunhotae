@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1: R Markdown practice"
-author: "SunHo Tae"
+author: "sunhotae"
 date: "`r Sys.Date()`"
 documentclass: article
 geometry: margin=1in
@@ -26,7 +26,25 @@ urlcolor: blue
 ---
 
 <!-- Write your Markdown below this line -->
+
 # Section
 
+Section K02
+
+# Course Goals
+
+By the end of the course, students will be able to:  
+
+*  Use [GitHub](https://github.com) for creating a reproducible research document.  
+
+    *  My GitHub username is: *sunhotae*
+    
+*  Obtain, clean, transform, and visualize a dataset using the R programming language.
+
+*  Interpret and predict dataset trends using statistical inference and models.
+
+*  Critically examine and interpret statistical claims reported in mass media.
+
+# Including Code
 
 
